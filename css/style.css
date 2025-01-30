@@ -2511,7 +2511,7 @@ img.lazyload:not(.placeholder).loaded {
   margin: 16px 50px;
   padding: 0 8px;
   width: calc(100% - 100px - 16px);
-  line-height: 2rem;
+  line-height: 10rem;
   border-radius: 8px;
   -webkit-border-radius: 8px;
   vertical-align: middle;
